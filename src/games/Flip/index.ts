@@ -5,6 +5,7 @@ export default {
   name: 'Flip',
   short_name: 'flip',
   description: `
+  Play and pray. At the top of the slot machine you can see your potential rewards. Always fair.
     creator: '6Fa47jDybGSpUX9vZ9NNPV7cfjox9iqUFtpifUSGaPpm',
   `,
   image,
