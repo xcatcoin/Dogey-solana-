@@ -4,8 +4,7 @@ import image from './logo.png'
 const game = {
   name: 'HiLo',
   short_name: 'hilo',
-  description: 'Guess if the next card is going to be higher or lower than the current one. Continue until you want to cash out!',
-  image,
+  creator: '6Fa47jDybGSpUX9vZ9NNPV7cfjox9iqUFtpifUSGaPpm',
   theme_color: '#81c2ff',
   app: App,
 }
