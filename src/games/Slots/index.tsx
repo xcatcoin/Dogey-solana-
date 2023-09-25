@@ -4,8 +4,7 @@ import image from './logo.png'
 export default {
   name: 'Slots',
   short_name: 'slots',
-  description: `
-    Play and pray. At the top of the slot machine you can see your potential rewards. Always fair.
+  creator: '6Fa47jDybGSpUX9vZ9NNPV7cfjox9iqUFtpifUSGaPpm',
   `,
   image,
   theme_color: '#d185ff',
