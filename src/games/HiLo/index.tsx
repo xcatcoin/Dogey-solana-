@@ -1,5 +1,5 @@
 import App from './Hilo'
-import image from './logo.png'
+import image from './https://ibb.co/wYScd5P'
 
 const game = {
   name: 'HiLo',
