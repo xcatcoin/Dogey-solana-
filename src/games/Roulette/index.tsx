@@ -4,8 +4,7 @@ import image from './logo.png'
 export default {
   name: 'Roulette',
   short_name: 'roulette',
-  description: `
-    A miniature version of Roulette. WYSIWYG!
+  creator: '6Fa47jDybGSpUX9vZ9NNPV7cfjox9iqUFtpifUSGaPpm',
   `,
   image,
   theme_color: 'rgb(29 232 126)',
