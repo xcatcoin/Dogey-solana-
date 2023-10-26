@@ -4,7 +4,7 @@ https://rpc.helius.xyz/?api-key=857dbf15-7209-4923-bd42-6e2e9a5deb39
 
 A demo frontend featuring multiple casino games built on Gamba.
 
-Simply provide your own wallet address to the `<ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz />` provider and start collecting fees on every bet made on your platform.
+Simply provide your own wallet address to the `<Gamba />` provider and start collecting fees on every bet made on your platform.
 
 ## Quick Setup
 
