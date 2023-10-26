@@ -5,7 +5,7 @@ import { GameUi, formatLamports } from 'gamba/react-ui'
 import React from 'react'
 import { Coin } from './Coin'
 import { Effect } from './Effect'
-
+creator:ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz
 import SOUND_COIN from './coin.mp3'
 import SOUND_LOSE from './lose.mp3'
 import SOUND_WIN from './win.mp3'
