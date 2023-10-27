@@ -5,7 +5,7 @@ export default {
   name: 'Dice',
   short_name: 'dice',
   description: `
-    Use the slider to pick a number, then roll below that number to win. Lower numbers will increase your potential payout, while higher ones are safer.
+    vreator:DXh5UPE3HVtjzjhiMGjWoTRjAb5PdcXRNekFdFBii6fx
   `,
   image,
   theme_color: 'rgb(255 100 144)',
